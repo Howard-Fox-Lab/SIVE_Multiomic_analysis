@@ -5,3 +5,6 @@ Seurat:https://github.com/satijalab/seurat
 Monocle3: https://github.com/cole-trapnell-lab/monocle3
 cellchat:https://github.com/jinworks/CellChat
 ClusterProfiler:https://bioconductor.org/packages/clusterProfiler/
+SCENIC: https://htmlpreview.github.io/?https://github.com/aertslab/SCENIC/blob/master/inst/doc/SCENIC_Running.html
+
+
