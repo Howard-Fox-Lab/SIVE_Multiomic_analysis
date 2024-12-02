@@ -6,4 +6,4 @@ Seurat(version: 4.4.0):https://github.com/satijalab/seurat \
 Monocle3(version: 1.3.7): https://github.com/cole-trapnell-lab/monocle3 \
 cellchat(version: 2.1.0):https://github.com/jinworks/CellChat \
 ClusterProfiler(version: 4.0.2):https://bioconductor.org/packages/clusterProfiler/ \
-SCENIC(version: 1.1.2-01): https://htmlpreview.github.io/?https://github.com/aertslab/SCENIC/blob/master/inst/doc/SCENIC_Running.html \
+SCENIC(version: 1.1.2-01): https://htmlpreview.github.io/?https://github.com/aertslab/SCENIC/blob/master/inst/doc/SCENIC_Running.html
