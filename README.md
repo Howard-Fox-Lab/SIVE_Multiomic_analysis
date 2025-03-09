@@ -7,3 +7,5 @@ Monocle3(version: 1.3.7): https://github.com/cole-trapnell-lab/monocle3 \
 cellchat(version: 2.1.0):https://github.com/jinworks/CellChat \
 ClusterProfiler(version: 4.0.2):https://bioconductor.org/packages/clusterProfiler/ \
 SCENIC(version: 1.1.2-01): https://htmlpreview.github.io/?https://github.com/aertslab/SCENIC/blob/master/inst/doc/SCENIC_Running.html
+
+This study has been published on [Commun Biol 8, 100 (2025). Xu, X., Niu, M., Lamberty, B.G. et al. Transformation of brain myeloid cell populations by SIV in rhesus macaques revealed by multiomics.](https://doi.org/10.1038/s42003-024-07443-4)
